@@ -41,7 +41,7 @@ No one textbook, please feel free to refer to the below
 
 Class Number | Date 020 | Date 030 | Topic                           |       Assignment      | Lecture Notes  | Related Files
 ------------ | -------- | -------- | -----------------------         | --------------------- | -------------  | -------------
-     1       |   08/25  |  08/24   |   Class Outline  & Intro        |                       |                |
+     1       |   08/25  |  08/24   |   Class Outline  & Intro        |                       |                | 1. [Python Overview Notebook](/course_materials/prep/1_Python_Overview.ipynb)  <br> 2. [Python Overview HTML](/course_materials/prep/1_Python_Overview.html)
      2       |   08/27  |   08/26  |   Intro to Probability          |                       |                |
      3       |   09/01  |   08/31  |   Data & Data Preprocessing.    |                       |                |
      3       |   09/03  |   09/02  |   Intro to Probability          |                       |                |

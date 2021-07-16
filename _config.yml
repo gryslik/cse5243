@@ -26,11 +26,14 @@ baseurl: "/cse5243" # the subpath of your site, e.g. /blog
 url: "https://gryslik.github.io/cse5243/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
+github:
+  is_project_page: false
 
 # Build settings
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
