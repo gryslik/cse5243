@@ -1,22 +1,17 @@
 # Welcome to CSE 5243 - FALL 2021
 
-## Schedules
+## Class Information
 
-### CLASS 020: 
+Item                     | Section 020                  |  Section 030
+------------------------ | -----------                  | ------------
+Schedule                 | Wed/Fri 12:45 PM - 2:05 PM   | Tue/Thur 9:35 AM - 10:55 AM
+ Location                | Hitchcock Hall 306           | Baker Systems 144
+ Professor               | Greg Ryslik                  | Thomas Bihari
+ Professor Office Hours  | Time TBD/ Location TBD       | Time TBD / Location TBD
+ TA                      | TBD                          | TBD
+ TA Office Hours         | TBD                          | TBD
 
-_Lecture Details_: Wednesday Friday / 12:45PM - 2:05PM /  Hitchcock Hall 306  
-_Professor_: Gregory Ryslik  
-_TA_: TBD  
-_Office Hours_: TBD  
-_TA Office Hours_: TBD  
 
-
-### Class 030:
-_Lecture Details_: Tuesday Thursday / 9:35AM - 10:55AM / Baker Systems 144  
-_Professor_:   
-_TA_: TBD  
-_Office Hours_: TBD  
-_TA Office Hours_: TBD  
 
 ## Description: 
 This class aims to introduce the knowledge discovery process, key data mining techniques, efficient high performance mining algorithms and provide a broad based exposure to the applications of data mining. This webpage will serve as the source of information for the course. We will post all python/R, jupyter notebooks, pdfs, lecture notes and other information here. 
@@ -24,7 +19,6 @@ This class aims to introduce the knowledge discovery process, key data mining te
 It is highly encouraged that you simply fork this entire repo and then just sync updates periodically. This will provide you the easiest access to all the class materials at once. For more information on this process, you can see the documentation [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo). 
 
 ## Grading Plan: 
-
 1. Participation: 10%
 2. Homework: 30%
 3. Midterm Exam: 30%
@@ -32,7 +26,6 @@ It is highly encouraged that you simply fork this entire repo and then just sync
 5. No course project
 
 ## Textbooks:
-
 No one textbook, please feel free to refer to the below
 
 
