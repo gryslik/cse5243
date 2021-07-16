@@ -1,4 +1,4 @@
-# Welcome to CSE 5243 - FALL 2021
+# FALL 2021
 
 ## Class Information
 
