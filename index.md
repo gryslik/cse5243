@@ -1,15 +1,26 @@
+---
+layout: default
+<script>
+$('table.display').DataTable()
+</script>
+---
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" />
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>  
+
 # FALL 2021
 
 ## Class Information
 
-Item                     | Section 020                  |  Section 030
------------------------- | -----------                  | ------------
-Schedule                 | Wed/Fri 12:45 PM - 2:05 PM   | Tue/Thur 9:35 AM - 10:55 AM
- Location                | Hitchcock Hall 306           | Baker Systems 144
- Professor               | Greg Ryslik                  | Thomas Bihari
- Professor Office Hours  | Time TBD/ Location TBD       | Time TBD / Location TBD
- TA                      | TBD                          | TBD
- TA Office Hours         | TBD                          | TBD
+Item                     | Section 020                  
+------------------------ | -----------                  
+Schedule                 | Wed/Fri 12:45 PM - 2:05 PM   
+ Location                | Hitchcock Hall 306           
+ Professor               | Greg Ryslik                  
+ Professor Office Hours  | Time TBD/ Location TBD       
+ TA                      | TBD                          
+ TA Office Hours         | TBD                         
 
 
 
@@ -19,10 +30,10 @@ This class aims to introduce the knowledge discovery process, key data mining te
 It is highly encouraged that you simply fork this entire repo and then just sync updates periodically. This will provide you the easiest access to all the class materials at once. For more information on this process, you can see the documentation [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo). 
 
 ## Grading Plan: 
-1. Participation: 10%
-2. Homework: 30%
-3. Midterm Exam: 30%
-4. Final Exam: 30%
+1. Homework x5: 60%
+2. Participation/Attendance: 5%
+3. Midterm Exam: 15%
+4. Final Exam: 20%
 5. No course project
 
 ## Textbooks:
@@ -37,14 +48,23 @@ No one textbook, please feel free to refer to the below
 6. [(Supplementary) Pattern Recognition and Machine Learning, Christopher M. Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)
 
 
-## Class Description and Relevant Notes
 
-Class Number | Date 020 | Date 030 | Topic                           |       Assignment      | Lecture Notes  | Related Files
------------- | -------- | -------- | -----------------------         | --------------------- | -------------  | -------------
-     1       |   08/25  |  08/24   |   Class Outline  & Intro        |                       |                | 1. [Python Overview Notebook](/course_materials/prep/1_Python_Overview.ipynb)  <br> 2. [Python Overview HTML](/course_materials/prep/1_Python_Overview.html)
-     2       |   08/27  |   08/26  |   Intro to Probability          |                       |                |
-     3       |   09/01  |   08/31  |   Data & Data Preprocessing.    |                       |                |
-     3       |   09/03  |   09/02  |   Intro to Probability          |                       |                |
+## Class course
 
-     
+<table class="display" border=1 frame=sides rules=all>
+  {% for row in site.data.Syllabus %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ 	pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
+
 

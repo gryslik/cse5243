@@ -1,0 +1,33 @@
+﻿Class,Wk,Date,Day,Topic,Class Exercise,Assign Out,Assign Due,Assign Graded,Notes,Related Files
+1,1,25-Aug,Wed,Class Outline,,,,,,"1.<a href = ""/cse5243/course_materials/prep/1_Python_Overview.ipynb"">Python Overview Notebook</a> <br>  2.<a href = ""/cse5243/course_materials/prep/1_Python_Overview.html"">Python Overview  html</a> <br>  3.<a href = ""/cse5243/course_materials/prep/1a_Exploratory_Data_analysis.ipynb"">Exploratory Data Analysis Overview Notebook </a> <br>  4.<a href = ""/cse5243/course_materials/prep/1a_Exploratory_Data_analysis.html"">Exploratory Data Analysis Overview html</a> 5.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730334"">Tan Book</a>"
+2,1,27-Aug,Fri,Introduction to Data Mining,,,,,,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730331"">Chapter 1 Intro</a> "
+3,2,1-Sep,Wed,Review of Basic Probability and Statistical Concepts,,,,,,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730332"">Stats Concepts Part 1</a> "
+4,2,3-Sep,Fri,Review of Basic Probability and Statistical Concepts,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise1b.docx"">Intro</a> ",,,,,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730333"">Stats Concepts Part 2</a> "
+5,3,8-Sep,Wed,Data & Data Preprocessing,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise2a.docx"">Jaccard Text Similarity</a> ",A1,,,Assignment 1: Data Preprocessing,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730335"">Chapter 2 Data</a> "
+6,3,10-Sep,Fri,Data & Data Preprocessing,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise3a.xlsx"">Exploratory Data Analysis</a> ",,,,,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730335"">Chapter 2 Data Exploration</a> "
+7,4,15-Sep,Wed,Data & Data Preprocessing,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise4a.xlsx"">Entropy 1 </a> ",,,,"1. Additional Material: 1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730339"">Pre-Processing</a>  ","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730336"">Chapter 2 Entropy</a> "
+8,4,17-Sep,Fri,"Classification - Basic Classification, Decision Trees","1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise6a.xlsx"">Hunt's Algorithm</a>  <br> 2.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise7a.xlsx"">Gini Index</a> ",A2,A1,,Assignment 2: Classification,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730340"">Basic Classification</a> "
+9,5,22-Sep,Wed,Classification - Overfitting,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise8a.xlsx"">Generalization Error</a> ",,,,,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730341"">Overfitting</a> "
+10,5,24-Sep,Fri,Classification - Imbalanced Classes,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise9a.xlsx"">Cost Matrices</a> ",,,,,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730342"">Imbalanced Classes</a> "
+11,6,29-Sep,Wed,"Classification - KNN, Rules","1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise10a.xlsx"">KNN Classifier</a>  <br> 2.1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise11a.xlsx"">Rule Based Classifier</a> ",,,A1,"1. Additional Material: 1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730344"">Rule Based</a>  ","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730343"">K-Nearest Neighbors</a> "
+12,6,1-Oct,Fri,Classification - Bayes,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise12a.xlsx""> Naive Bayes Classifier</a> ",,,,,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730345"">Naïve Bayes</a> "
+13,7,6-Oct,Wed,"Classification - Log Reg, SVM",,,,,"1. Additional Material: 1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730350"">Support Vector Machines</a>  ","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730349"">Logistic Regression</a> "
+14,7,8-Oct,Fri,"Classification - ANN, Ensemble",,,,,"1. Additional Material: 1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730347"">Aritificial Neural ENets</a>  ","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730351"">Ensemble Methods</a> "
+15,8,13-Oct,Wed,Midterm Review,,,A2,,,
+-,8,15-Oct,Fri,NO CLASS,,,,,"Autumn Break 10/14,15",
+16,9,20-Oct,Wed,Midterm Exam,,,,,,
+17,9,22-Oct,Fri,Clustering,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-HierCluster-15b.xlsx"">Hierarchical Clustering</a> ",A3,,A2,Assignment 3: Clustering (or stakeholder presentation of A2),"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730352"">Clustering</a> "
+18,10,27-Oct,Wed,Clustering,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-Kmeans-16c.xlsx"">Kmeans</a> ",,,Midterm,,
+19,10,29-Oct,Fri,Clustering,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-DBScan-17b.xlsx"">DBScan</a> ",,,,,
+20,11,3-Nov,Wed,Clustering,,,,,,
+21,11,5-Nov,Fri,Frequent Patterns and Associations,,A4,A3,,Assignment 4: Association Analysis (or Clustering),"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730353"">Association Analysis</a> "
+22,12,10-Nov,Wed,Frequent Patterns and Associations,,,,,,
+-,12,12-Nov,Fri,"NO CLASS for 030 / Optional Class Day for 020. Happy to discuss industry, stats, etc",,,,,Veterans Day 11/11,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730354"">Anomaly Detection</a> "
+23,13,17-Nov,Wed,Frequent Patterns and Associations,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-AssocApriori-19b.xlsx"">Frequent Itemset Generation</a> ",,,A3,,
+24,13,19-Nov,Fri,Frequent Patterns and Associations,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-AssocMaxClosed-20c.xlsx"">Maximal Frequent and closed Itemsets</a> ",,,,,
+25,14,24-Nov,Wed,Anomaly Detection,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-Anomaly-21a.xlsx"">Anomaly-21a</a> ",A5,A4,,Assignment 5: TBD (possibly Association Analysis),
+-,14,26-Nov,Fri,NO CLASS,,,,,"Thanksgiving 11/24,25,26",
+26,15,1-Dec,Wed,Misc Topics,,,,,,
+27,15,3-Dec,Fri,Misc Topics,,,,A4,,
+28,16,8-Dec,Wed,Final Review,,,A5,,"Last class 12/7,8",
+29,17,13-Dec,Mon,Final Exam,,,,,"030: (TOM) Friday Dec 10, 8:00am-9:45am / 020: Monday December 13th, 4 - 5:45 PM",
