@@ -19,7 +19,7 @@ Schedule                 | Wed/Fri 12:45 PM - 2:05 PM
  Location                | Hitchcock Hall 306           
  Professor               | Greg Ryslik                  
  Professor Office Hours  | Time TBD/ Location TBD       
- TA                      | TBD                          
+ TA                      | Saikat Majumdar / majumdar DOT 42 AT buckeyemail DOT osu DOT edu)
  TA Office Hours         | TBD                         
 
 
@@ -35,6 +35,8 @@ It is highly encouraged that you simply fork this entire repo and then just sync
 3. Midterm Exam: 15%
 4. Final Exam: 20%
 5. No course project
+
+There might be tentative bonus points assigned for harder math or cs problems. Max would be at most 3%. 
 
 ## Textbooks:
 No one textbook, please feel free to refer to the below
