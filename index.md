@@ -67,4 +67,5 @@ No one textbook, please feel free to refer to the below
   {% endfor %}
 </table>
 
-
+## Formal Syllabus
+The syllabus with all the academic policies can be found [here](/cse5243/course_materials/syllabus/CSE5243-GRyslik-V1.docx). 
