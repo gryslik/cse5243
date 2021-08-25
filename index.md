@@ -17,7 +17,7 @@ Item                     | Section 020
 ------------------------ | -----------                  
 Schedule                 | Wed/Fri 12:45 PM - 2:05 PM   
  Location                | Hitchcock Hall 306           
- Professor               | Greg Ryslik                  
+ Professor               | Greg Ryslik / greg.ryslik AT gmail DOT com           
  Professor Office Hours  | Time TBD/ Location TBD       
  TA                      | Saikat Majumdar / majumdar DOT 42 AT buckeyemail DOT osu DOT edu)
  TA Office Hours         | TBD                         
