@@ -16,12 +16,12 @@
 15,8,13-Oct,Wed,Midterm Review,,,A2,,"1. Tom's Review on <em>10/19</em><br>2.<a href = ""https://osu.instructure.com/courses/109167/modules/items/7137610"">Midterm Review Document</a>",See course announcement for details.,
 -,8,15-Oct,Fri,NO CLASS,,,,,"Autumn Break 10/14,15",,
 16,9,20-Oct,Wed,Midterm Exam,,Released on Thursday 10/21/21,,,,,
-17,9,22-Oct,Fri,Clustering,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-HierCluster-15b.xlsx"">Hierarchical Clustering</a> ",A3,,A2,Assignment 3: Clustering (or stakeholder presentation of A2),,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730352"">Clustering</a> "
-18,10,27-Oct,Wed,Clustering,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-Kmeans-16c.xlsx"">Kmeans</a> ",,,Midterm,,,
-19,10,29-Oct,Fri,Clustering,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-DBScan-17b.xlsx"">DBScan</a> ",,,,,,
-20,11,3-Nov,Wed,Clustering,,,,,,,
-21,11,5-Nov,Fri,Frequent Patterns and Associations,,A4,A3,,Assignment 4: Association Analysis (or Clustering),,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730353"">Association Analysis</a> "
-22,12,10-Nov,Wed,Frequent Patterns and Associations,,,,,,,
+17,9,22-Oct,Fri,Clustering,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-HierCluster-15b.xlsx"">Hierarchical Clustering</a> ",,,,,"<a href = ""https://osu.instructure.com/courses/109167/modules/items/7174284"">10-22-21</a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730352"">Clustering</a> "
+18,10,27-Oct,Wed,Clustering,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-Kmeans-16c.xlsx"">Kmeans</a> ",A3,,,Assignment 3: Clustering (or stakeholder presentation of A2),"<a href = ""https://osu.instructure.com/courses/109167/modules/items/7174286"">10-27-21</a>",
+19,10,29-Oct,Fri,Clustering,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-DBScan-17b.xlsx"">DBScan</a> ",,,A2,,,
+20,11,3-Nov,Wed,Clustering,,,,Midterm,,,
+21,11,5-Nov,Fri,Frequent Patterns and Associations,,,,,Assignment 4: Association Analysis (or Clustering),,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730353"">Association Analysis</a> "
+22,12,10-Nov,Wed,Frequent Patterns and Associations,,A4,A3,,,,
 -,12,12-Nov,Fri,"NO CLASS for 030 / Optional Class Day for 020. Happy to discuss industry, stats, etc",,,,,Veterans Day 11/11,,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730354"">Anomaly Detection</a> "
 23,13,17-Nov,Wed,Frequent Patterns and Associations,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-AssocApriori-19b.xlsx"">Frequent Itemset Generation</a> ",,,A3,,,
 24,13,19-Nov,Fri,Frequent Patterns and Associations,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-AssocMaxClosed-20c.xlsx"">Maximal Frequent and closed Itemsets</a> ",,,,,,
