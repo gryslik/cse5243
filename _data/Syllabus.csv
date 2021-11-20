@@ -23,11 +23,11 @@
 21,11,5-Nov,Fri,NO CLASS,,,,,,,
 22,12,10-Nov,Wed,Frequent Patterns and Associations,,,A3,,,"<a href = ""https://osu.zoom.us/rec/share/h2u9Qdj_Zto9slQfKGteZGKwe5zWjVnK1fFXxv1yg_WCUh8zrLs5XUCkSPqbQNM.h29whNRWHuAtkPL2"">11-10-21</a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730353"">Association Analysis</a> "
 23,12,12-Nov,Fri,Frequent Patterns and Associations,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-AssocApriori-19b.xlsx"">Frequent Itemset Generation</a><br>2.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-AssocMaxClosed-20c.xlsx"">Maximal Frequent and closed Itemsets</a> ",A4,,,Assignment 4: Association Analysis (or Clustering),"<a href = ""https://osu.zoom.us/rec/share/NcZbm5S2FvO6WSxRJgucrFRT2S-4Zds6J1eKy_Cn9qw3fJD3pk0HadDdy94rpt0.TO5SWb69zQYrdubG"">11-12-21</a>","1.<a href = ""/cse5243/course_materials/lecture_examples/Association_Analysis.ipynb"">Association Analysis Clustering Notebook</a> "
-24,13,17-Nov,Wed,Anomaly Detection & Frequent Associations,,,,,,,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730354"">Anomaly Detection</a> "
+24,13,17-Nov,Wed,Anomaly Detection & Frequent Associations,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-Anomaly-21a.xlsx"">Anomaly-21a</a> ",,,,,"<a href = ""https://osu.zoom.us/rec/share/H7rXTbtkujsZkmpAA6nXCBoH5q_ImiR1yv33voSomd05J_wy_BKkVIwKgCpTXQJa.G88rgsqkqkvwGt0z"">11-17-21</a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730354"">Anomaly Detection</a> "
 -,13,19-Nov,Fri,No CLASS,,,,A3,,,
-25,14,24-Nov,Wed,Anomaly Detection,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-Anomaly-21a.xlsx"">Anomaly-21a</a> ",A5,A4,,Assignment 5: TBD (possibly Association Analysis),,
+25,14,24-Nov,Wed,No CLASS,,A5,A4,,Assignment 5: TBD (possibly Association Analysis),,
 -,14,26-Nov,Fri,NO CLASS,,,,,"Thanksgiving 11/24,25,26",,
-26,15,1-Dec,Wed,Misc Topics,,,,,,,
+26,15,1-Dec,Wed,Anomaly Detection,,,,,,,
 27,15,3-Dec,Fri,Misc Topics,,,,A4,,,
 28,16,8-Dec,Wed,Final Review,,,A5,,"Last class 12/7,8",,
 29,17,13-Dec,Mon,Final Exam,,,,,"030: (TOM) Friday Dec 10, 8:00am-9:45am / 020: Monday December 13th, 4 - 5:45 PM",,
