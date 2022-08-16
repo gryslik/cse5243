@@ -1,32 +1,32 @@
 ---
 layout: default
-<script>
-$('table.display').DataTable()
-</script>
 ---
+
+
 
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" />
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>  
 
-# FALL 2021
+
+# FALL 2022
 
 ## Class Information
 
 Item                     | Section 020                  
 ------------------------ | -----------                  
 Schedule                 | Wed/Fri 12:45 PM - 2:05 PM   
- Location                | Hitchcock Hall 306           
+ Location                | Zoom. Details Carmen for details.
  Professor               | Greg Ryslik / ryslik DOT 1 AT osu DOT edu
- Professor Office Hours  | Fridays (3:30 - 4:30 PM) - via zoom. Details on Carmen. Contact me if you plan to attend.
- TA                      | Saikat Majumdar / majumdar DOT 42 AT buckeyemail DOT osu DOT edu)
+ Professor Office Hours  | Fridays (2:05 - 3:05 PM) - via zoom. Details on Carmen. Contact me if you plan to attend.
+ TA                      | TBD
  TA Office Hours         | TBD                         
 
 
 
 ## Description: 
-This class aims to introduce the knowledge discovery process, key data mining techniques, efficient high performance mining algorithms and provide a broad based exposure to the applications of data mining. This webpage will serve as the source of information for the course. We will post all python/R, jupyter notebooks, pdfs, lecture notes and other information here. 
-
+This class aims to introduce the knowledge discovery process, key data mining techniques, efficient high performance mining algorithms and provide a broad based exposure to the applications of data mining. This webpage will serve as the source of information for the course. We will post all python/R, jupyter notebooks, pdfs, lecture notes and other information here.
+	
 It is highly encouraged that you simply fork this entire repo and then just sync updates periodically. This will provide you the easiest access to all the class materials at once. For more information on this process, you can see the documentation [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo). 
 
 ## Grading Plan: 
@@ -48,8 +48,6 @@ No one textbook, please feel free to refer to the below
 4. [(Supplementary) Mining of Massive Datasets (Online version available), Jure Leskovec, Anand Rajaraman and Jeffrey Ullman](http://www.mmds.org/)
 5. [(Supplementary) Machine Learning, Tom Mitchell](http://www.cs.cmu.edu/~tom/mlbook.html)
 6. [(Supplementary) Pattern Recognition and Machine Learning, Christopher M. Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)
-
-
 
 ## Class course
 

@@ -1,33 +1,58 @@
-﻿Class,Wk,Date,Day,Topic,Class Exercise,Assign Out,Assign Due,Assign Graded,Notes,Video,Related Files
-1,1,25-Aug,Wed,Class Outline,,,,,,,"1.<a href = ""/cse5243/course_materials/prep/1_Python_Overview.ipynb"">Python Overview Notebook</a> <br>  2.<a href = ""/cse5243/course_materials/prep/1_Python_Overview.html"">Python Overview  html</a> <br>  3.<a href = ""/cse5243/course_materials/prep/1a_Exploratory_Data_analysis.ipynb"">Exploratory Data Analysis Overview Notebook </a> <br>  4.<a href = ""/cse5243/course_materials/prep/1a_Exploratory_Data_analysis.html"">Exploratory Data Analysis Overview html</a> 5.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730334"">Tan Book</a>"
-2,1,27-Aug,Fri,Introduction to Data Mining,,,,,,"<a href = ""https://osu.zoom.us/rec/share/9sUqCVSkjM1k0vY5fcYRCMansKzeY2bj-e-WBIAL_UTmF1Z3AHoAzdQI0NqbLCoO.BCMaEe3DpVW22XxF""> 08-27-21 </a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730331"">Chapter 1 Intro</a> "
-3,2,1-Sep,Wed,Review of Basic Probability and Statistical Concepts,,,,,"Additional Material: 1.<a href=""https://osu.instructure.com/courses/109167/modules/items/6994397"">Bayes Theorem Alternate</a>","<a href = ""https://osu.zoom.us/rec/share/CWCVg0kl9S-PQ27hOBw4h0D3Baw0uHHPrGOBytF6kfZ0kzR4oLPO5R8043uJMV18.KeP4J_NHqJLAzIIx""> 09-01-21 </a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730332"">Stats Concepts Part 1</a> "
-4,2,3-Sep,Fri,Review of Basic Probability and Statistical Concepts,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise1b.docx"">Intro</a> ",,,,,"<a href = ""https://osu.zoom.us/rec/share/iWTmYYT2Vq576dLZGamvD1D6vobx6acSvFXwnUP88b5_lcaDHEROyNKUhDjI9Aq0.8As2PwcIjV0P8u1A""> 09-03-21 </a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730333"">Stats Concepts Part 2</a> "
-5,3,8-Sep,Wed,Data & Data Preprocessing,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise2a.docx"">Jaccard Text Similarity</a> ","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/7026138"">A1 Notebook</a> <br> 2.<a href =""https://osu.instructure.com/courses/109167/modules/items/7026139 "">A1 Data </a>",,,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/7026142"">Logistic Regression IPython Notebook</a><br>2.<a href = ""https://osu.instructure.com/courses/109167/modules/items/7026143"">Logistic Regression Data</a>","<a href = ""https://osu.zoom.us/rec/share/J__yz810kNsTPdqtNHxXcDigDW7uAsknH9xKTqdmnHWkdVezGY_KQkCs_zzQIh_q.PY7SlR6Qq27-dJUu""> 09-08-21 </a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/7009280"">Categorical Data & Inference</a> "
-6,3,10-Sep,Fri,Data & Data Preprocessing,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise3a.xlsx"">Exploratory Data Analysis</a> ",,,,"1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/7026142"">Logistic Regression IPython Notebook</a><br>2.<a href = ""https://osu.instructure.com/courses/109167/modules/items/7026143"">Logistic Regression Data</a>","<a href = ""https://osu.zoom.us/rec/share/_4crvnyPv0uJC0WKyjmf8VfTwApul7L-eatA2NmT6jeBuOx9VkOFQZ-gCVV1rUrM.3LXB7T0vEvGkwLhY""> 09-10-21 </a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730335"">Chapter 2 Data</a> "
-7,4,15-Sep,Wed,Data & Data Preprocessing,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise4a.xlsx"">Entropy 1 </a> ",,,,"Additional Material: 1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730339"">Pre-Processing</a> <br>2.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730337"">Chapter 2 Entropy</a><br>3.<a href = ""https://colah.github.io/posts/2015-09-Visual-Information/"">Reading:Entropy & Information Theory</a>","<a href = ""https://osu.zoom.us/rec/share/qG7kKgE3SYT6mlMCNEmfKTOzF3xAyL5KE2jix55d8fg-8BlwZpcgadS0mGjE7AZN.dihwW8PBHnZ4oxVR""> 09-15-21 </a>",
-8,4,17-Sep,Fri,"Classification - Basic Classification, Decision Trees","1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise6a.xlsx"">Hunt's Algorithm</a>  <br> 2.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise7a.xlsx"">Gini Index</a> ",,A1 (Due 09/21),,Assignment 2: Classification,"<a href = ""https://mediasite.osu.edu/Mediasite/Play/fb5be1e9749f4e668eb4d8488a8391b11d""> 09-17-21 </a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730340"">Basic Classification</a> "
-9,5,22-Sep,Wed,Classification - Overfitting,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise8a.xlsx"">Generalization Error</a> ",,,,"Additional Material: 1.<a href=""https://osu.instructure.com/courses/109167/modules/items/7070831"">Overfitting</a> <br>2.<a href=""https://osu.instructure.com/courses/109167/modules/items/7077450"">p-value hacking</a>","<a href = ""https://osu.zoom.us/rec/share/PZ9QNcr7OXEvGDlw7x2lfccZAmL2M1eh-Muv-d-aMEqKDQiDESCOt2kkDaVxySjH.9CT_lRwmshtrNIEH""> 09-22-21 </a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730341"">Overfitting</a> "
-10,5,24-Sep,Fri,Classification - Imbalanced Classes,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise9a.xlsx"">Cost Matrices</a> ",,,,,"<a href = ""https://osu.zoom.us/rec/share/zdLCJAocEPz4li9AyKQIpp8Fd8tPvONcihDdDvsFJEx_SYZukA9rfGO2Gcahuz39.SQvQ4jh3XvDO3bQv""> 09-24-21 </a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730342"">Imbalanced Classes</a> "
-11,6,29-Sep,Wed,"Classification - KNN, Rules","1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise10a.xlsx"">KNN Classifier</a>  <br> 2.1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise11a.xlsx"">Rule Based Classifier</a> ","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/7091803"">A2 Notebook</a> <br> 2.<a href =""https://osu.instructure.com/courses/109167/modules/items/7091802"">A2 Data </a><br>3.<a href =""https://osu.zoom.us/rec/play/ysb8yhLmDYvq2xqLZCTxFoll06Pt7oNy8-V0vzFs3UzBRTym-EMeryW140VNfKV189zapQbGUoIte8gZ.hihSLp8z_FUnr9Q7?startTime=1632754526000"">Tom Bihari's Intro to HW </a>",,,"Additional Material:<br>1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730344"">Rule Based</a><br>2.<a href = ""/cse5243/course_materials/lecture_examples/IRIS Analysis.ipynb"">Example Analysis Notebook </a>","<a href = ""https://osu.zoom.us/rec/share/wOwcKB3jAsUikVashHy5emikYsS4gDOTflVW5juEb0CAH8XeLjk9w3rQoOzxuoN8.TNr6rs2U8Of7aTi-""> 09-29-21 </a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730343"">K-Nearest Neighbors</a> "
-12,6,1-Oct,Fri,Classification - Bayes,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise12a.xlsx""> Naive Bayes Classifier</a> ",,,,,"<a href = ""https://osu.zoom.us/rec/share/q8Y_t_Lh2VcWEBlhlm6nkMZ6K-IoB1LRTA6A12IzkdV2bDAQoLjb8nT8LTR-hw3O.ScqGVwpaeIcQyYHB"">10-01-21 </a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730345"">Naïve Bayes</a> "
-13,7,6-Oct,Wed,"Classification - Log Reg, SVM",,,,A1 (tentative),"1. Additional Material: 1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730350"">Support Vector Machines</a>  ","<a href = ""https://osu.zoom.us/rec/share/B4ZNOtpviKHkZ6KTYO9d4MHqkb3iJj_31CdCv26u9UXLZNJsoquKRXZrtwKONl1u.fyuW4UvdasdGaLcS"">10-06-21</a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730349"">Logistic Regression</a> "
-14,7,8-Oct,Fri,"Classification - ANN, Ensemble",,,,,"Additional Material: 1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730347"">Aritificial Neural Nets</a> <br>2.<a href = ""https://osu.instructure.com/courses/109167/modules/items/7119386"">Greg's NN & CNN </a>","<a href = ""https://osu.zoom.us/rec/share/d30V9zywx-VUDer4CycY0CbESZ5oYMDRblXkwyVXsFaJy4HF85ItPRIdwqghSj05.yjWETaEy14jlGBLg"">10-08-21</a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730351"">Ensemble Methods</a> "
-15,8,13-Oct,Wed,Midterm Review,,,A2,,"1. Tom's Review on <em>10/19</em><br>2.<a href = ""https://osu.instructure.com/courses/109167/modules/items/7137610"">Midterm Review Document</a>",See course announcement for details.,
--,8,15-Oct,Fri,NO CLASS,,,,,"Autumn Break 10/14,15",,
-16,9,20-Oct,Wed,Midterm Exam,,Released on Thursday 10/21/21,,,,,
-17,9,22-Oct,Fri,Clustering,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-HierCluster-15b.xlsx"">Hierarchical Clustering</a> ",,,,,"<a href = ""https://osu.instructure.com/courses/109167/modules/items/7174284"">10-22-21</a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730352"">Clustering</a> "
-18,10,27-Oct,Wed,Clustering,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-Kmeans-16c.xlsx"">Kmeans</a> ",A3,,,"1.<a href = ""/cse5243/course_materials/lecture_examples/Clustering.ipynb"">Clustering Jupyter Notebook</a> ","<a href = ""https://osu.zoom.us/rec/share/ml-k7xeBtxEsVrFF1uO8ZFNvDwotfESL73D2sOTMNK16VO0mXV7MJHbhB45Y2KnI.UJyEJ51yo-oBRd6q"">10-27-21</a>",
-19,10,29-Oct,Fri,Clustering,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-DBScan-17b.xlsx"">DBScan</a> ",,,A2,,"<a href = ""https://osu.zoom.us/rec/share/IL79KWujqvGFALlqgoxBKygqNP-N-iJ_l9-tsRNkSYvW2FlpNvUiYLeoyBxiytQx.5m1nz9vRrQfC-SP-"">10-29-21</a>",
-20,11,3-Nov,Wed,Clustering,,,,Midterm,,"<a href = ""https://osu.zoom.us/rec/share/ftSOWlaKkUpYd8SiaEQQpq2aKO74afhDb6HN38dWV-WVKNScBv1F2CPFJDPuVKEo.bjxPFIJA0ZJGjEIp"">11-03-21</a>",
-21,11,5-Nov,Fri,NO CLASS,,,,,,,
-22,12,10-Nov,Wed,Frequent Patterns and Associations,,,A3,,,"<a href = ""https://osu.zoom.us/rec/share/h2u9Qdj_Zto9slQfKGteZGKwe5zWjVnK1fFXxv1yg_WCUh8zrLs5XUCkSPqbQNM.h29whNRWHuAtkPL2"">11-10-21</a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730353"">Association Analysis</a> "
-23,12,12-Nov,Fri,Frequent Patterns and Associations,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-AssocApriori-19b.xlsx"">Frequent Itemset Generation</a><br>2.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-AssocMaxClosed-20c.xlsx"">Maximal Frequent and closed Itemsets</a> ",A4,,,Assignment 4: Association Analysis (or Clustering),"<a href = ""https://osu.zoom.us/rec/share/NcZbm5S2FvO6WSxRJgucrFRT2S-4Zds6J1eKy_Cn9qw3fJD3pk0HadDdy94rpt0.TO5SWb69zQYrdubG"">11-12-21</a>","1.<a href = ""/cse5243/course_materials/lecture_examples/Association_Analysis.ipynb"">Association Analysis Clustering Notebook</a> "
-24,13,17-Nov,Wed,Anomaly Detection & Frequent Associations,"1.<a href = ""/cse5243/course_materials/exercises/CSE5243-Exercise-Anomaly-21a.xlsx"">Anomaly-21a</a> ",,,,,"<a href = ""https://osu.zoom.us/rec/share/H7rXTbtkujsZkmpAA6nXCBoH5q_ImiR1yv33voSomd05J_wy_BKkVIwKgCpTXQJa.G88rgsqkqkvwGt0z"">11-17-21</a>","1.<a href = ""https://osu.instructure.com/courses/109167/modules/items/6730354"">Anomaly Detection</a> "
--,13,19-Nov,Fri,No CLASS,,,,A3,,,
-25,14,24-Nov,Wed,No CLASS,,A5,A4,,Assignment 5: TBD (possibly Association Analysis),,
--,14,26-Nov,Fri,NO CLASS,,,,,"Thanksgiving 11/24,25,26",,
-26,15,1-Dec,Wed,Anomaly Detection,,,,,,"<a href = ""https://osu.zoom.us/rec/share/Cr0_gdQmPrpYV0jottjjbY6NMryuxyHOuAyzcar_WmFdCK-RnqZqxtNINTys0ap6.VqJu2JuFF7czLhcl"">12-1-21</a>",
-27,15,3-Dec,Fri,Misc Topics,,,,A4,,"<a href = ""https://osu.zoom.us/rec/share/q9AJ85jZzRmCb6w3yh1QV4Uv3-ShLjOJSTuXGcA6x3O1RnoW2b7vEDFrM3x9-AV9.SqXhTz8NhTHhmXN6"">12-3-21</a>",
-28,16,8-Dec,Wed,Final Review,,,A5- Due 12/7,,"Last class 12/7,8",,
-29,17,13-Dec,Mon,Final Exam,,,,,"030: (TOM) Friday Dec 10, 8:00am-9:45am / 020: Monday December 13th, 4 - 5:45 PM",,
+﻿Class,Wk,Date,Day,Topic,Assign Out,Assign Due,Notes,Video,Related Files
+1,1,24-Aug,Wed,Class Outline,,,,,"1.<a href = ""/cse5243/course_materials/prep/1_Python_Overview.ipynb"">Python Overview Notebook</a> <br>
+2.<a href = ""/cse5243/course_materials/prep/1_Python_Overview.html"">Python Overview  html</a> <br>
+3.<a href = ""/cse5243/course_materials/prep/1a_Exploratory_Data_analysis.ipynb"">Exploratory Data Analysis Overview Notebook </a> <br>
+ 4.<a href = ""/cse5243/course_materials/prep/1a_Exploratory_Data_analysis.html"">Exploratory Data Analysis Overview html</a>
+5.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636045"">Tan Book</a>"
+2,1,26-Aug,Fri,Introduction to Data Mining,,,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636041"">Chapter 1 Intro</a> "
+3,2,31-Aug,Wed,Review of Basic Probability and Statistical Concepts,,,"Additional Material: 1.<a href=""https://osu.instructure.com/courses/128739/files/44449870"">Bayes Theorem Alternate</a>",,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636043"">Stats Concepts Part 1</a> "
+4,2,2-Sep,Fri,Review of Basic Probability and Statistical Concepts,,,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636044"">Stats Concepts Part 2</a> "
+5,3,7-Sep,Wed,Data & Data Preprocessing,"A1 Released
+1.<a href =  ""/cse5243/course_materials/hw/1/CSE5243_EDA_Logistic_HW_Template.ipynb"">A1 Notebook</a> <br>
+ 2.<a href =""/cse5243/course_materials/hw/1/diabetes_hw_data_3494.csv "">A1 Data </a>",,"1.<a href = ""/cse5243/course_materials/lecture_examples/CategoricalData&Inference.ipynb"">Logistic Regression IPython Notebook</a> <br>
+2.<a href = ""/cse5243/course_materials/lecture_examples/LogisticRegressionData.csv"">Logistic Regression Data</a>",,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636051"">Categorical Data & Inference</a> "
+6,3,9-Sep,Fri,Data & Data Preprocessing,,,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636048"">Chapter 2 Data</a> "
+7,4,14-Sep,Wed,Data & Data Preprocessing,,,"Additional Material: <br>
+ 1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636054"">Pre-Processing</a> <br>
+2.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636050"">Chapter 2 Entropy</a><br>
+3.<a href = ""https://colah.github.io/posts/2015-09-Visual-Information/"">Reading:Entropy & Information Theory</a>",,
+8,4,16-Sep,Fri,"Classification - Basic Classification, Decision Trees",,A1,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636063"">Basic Classification</a> "
+9,5,21-Sep,Wed,Classification - Overfitting,,,"Additional Material: <br>
+1.<a href=""https://osu.instructure.com/courses/128739/modules/items/8636064"">Overfitting</a> <br>
+2.<a href=""https://osu.instructure.com/courses/128739/modules/items/8636067"">p-value hacking</a>",,
+10,5,23-Sep,Fri,Classification - Imbalanced Classes,,,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636069"">Imbalanced Classes</a> "
+11,6,28-Sep,Wed,"Classification - KNN, Rules","A2
+1.<a href = ""/cse5243/course_materials/hw/2/CSE5243 Classification HW2 Au21 V3.ipynb"">A2 Notebook</a> <br>
+2.<a href =""/cse5243/course_materials/hw/2/Cleveland Data CLEANED AND TRIMMED.csv"">A2 Data </a><br>",,"Additional Material: <br>
+1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636071"">Rule Based</a><br>
+2.<a href = ""/cse5243/course_materials/lecture_examples/IRIS Analysis.ipynb"">Example Analysis Notebook </a>",,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636070"">K-Nearest Neighbors</a> "
+12,6,30-Sep,Fri,Classification - Bayes,,,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636072"">Naïve Bayes</a> "
+13,7,5-Oct,Wed,"Classification - Log Reg, SVM",,,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636077/"">Support Vector Machines</a>  "
+14,7,7-Oct,Fri,"Classification - ANN, Ensemble",,,"Additional Material: <br>
+1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636074"">Aritificial Neural Nets</a> <br>
+2.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636085"">Greg's NN & CNN </a>",,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636078"">Ensemble Methods</a> "
+15,8,12-Oct,Wed,Midterm Review,,A2,,,
+-,8,14-Oct,Fri,NO CLASS,,,,,
+16,9,19-Oct,Wed,Midterm Exam,,,,,
+17,9,21-Oct,Fri,Clustering,"A3
+1. <a href = ""https://osu.instructure.com/files/44449884""> A3 Prompt </a>",,"1.<a href = ""/cse5243/course_materials/lecture_examples/Clustering.ipynb"">Clustering Jupyter Notebook</a> ",,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636089"">Clustering</a> "
+18,10,26-Oct,Wed,Clustering,,,,,
+19,10,28-Oct,Fri,Clustering,,,,,
+20,11,2-Nov,Wed,Clustering,,,,,
+21,11,4-Nov,Fri,Frequent Patterns and Associations,"A4
+1.<a href = ""/cse5243/course_materials/hw/4/CSE5243_Clustering_HW_Template_V4.ipynb"">A4 Notebook</a> <br>
+2.<a href =""/cse5243/course_materials/hw/4/large1_Xydf.csv"">Large1 Data</a><br>
+3.<a href =""/cse5243/course_materials/hw/4/large2_Xydf.csv"">Large2 Data</a><br>
+4.<a href =""/cse5243/course_materials/hw/4/small_Xydf.csv"">small_Xydf</a><br>",A3,"1.<a href = ""/cse5243/course_materials/lecture_examples/Association_Analysis.ipynb"">Association Analysis Clustering Notebook</a> ",,"1.<a href = ""https://osu.instructure.com/courses/128739/files/44449909"">Association Analysis</a> "
+22,12,9-Nov,Wed,Frequent Patterns and Associations,,,,,
+23,12,11-Nov,Fri,NO CLASS,,,,,
+24,13,16-Nov,Wed,Anomaly Detection & Frequent Associations,,A4,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636106"">Anomaly Detection</a> "
+-,13,18-Nov,Fri,Anomaly Detection,"A5
+1.<a href =""/cse5243/course_materials/hw/5/Hw5_Au2021.ipynb"">A5 Notebook</a><br>
+2.<a href =""/cse5243/course_materials/hw/5/hw5_data.csv"">A5 Data</a><br>",,,,
+25,14,23-Nov,Wed,NO CLASS,,,,,
+-,14,25-Nov,Fri,NO CLASS,,,,,
+26,15,30-Nov,Wed,Misc Topics (reinforcement learning)?,,A5,,,
+27,15,2-Nov,Fri,Misc Topics,,,,,
+28,16,7-Dec,Wed,Final Review (Roughly around this date),,,,,
+29,17,9-Dec,Fri,Final Exam (Roughly around this date),,,,,
