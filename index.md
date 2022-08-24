@@ -19,7 +19,7 @@ Schedule                 | Wed/Fri 12:45 PM - 2:05 PM
  Location                | Zoom. Details Carmen for details.
  Professor               | Greg Ryslik / ryslik DOT 1 AT osu DOT edu
  Professor Office Hours  | Fridays (2:05 - 3:05 PM) - via zoom. Details on Carmen. Contact me if you plan to attend.
- TA                      | TBD
+ TA                      | Spandana Kondubhotla / kondubhotla DOT 1 AT buckeyemail DOT osu DOT edu
  TA Office Hours         | TBD                         
 
 
