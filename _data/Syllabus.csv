@@ -15,13 +15,14 @@
 7,4,14-Sep,Wed,Data & Data Preprocessing,,,"Additional Material: <br>
  1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636054"">Pre-Processing</a> <br>
 2.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636050"">Chapter 2 Entropy</a><br>
-3.<a href = ""https://colah.github.io/posts/2015-09-Visual-Information/"">Reading:Entropy & Information Theory</a>",,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636048"">Chapter 2 Data</a>  <br>
+3.<a href = ""https://colah.github.io/posts/2015-09-Visual-Information/"">Reading:Entropy & Information Theory</a>","1.<a href = ""https://osu.zoom.us/rec/share/LRI8lS4hww4o7-3U8ISpT6aUnIHiuE_HPMVA442DFNkkTcxNYceDtxM7UFgQTCT_.-n81_p1fnQgU91OC"">09-14-22</a> ","1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636048"">Chapter 2 Data</a>  <br>
 2.<a href = ""https://osu.instructure.com/courses/128739/modules/items/9023264"">Entropy - but better - PPT</a>  <br>
 3.<a href = ""/cse5243/course_materials/lecture_examples/EntropyAndAllThatJazz.ipynb"">Entropy Notebook</a> "
-8,4,16-Sep,Fri,"Classification - Basic Classification, Decision Trees",,A1,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636063"">Basic Classification</a>"
+8,4,16-Sep,Fri,"Classification - Basic Classification, Decision Trees",,A1,,"1.<a href = ""https://osu.zoom.us/rec/share/UpfjwhzX4VFVFcm2z-YptyQBPA73BTGpHlxA_2AoOtoC6o8PR261a86AK6sXaNBx.Y4PBXuu7PnykqzTi"">09-15-22</a> ","1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636063"">Basic Classification</a>"
 9,5,21-Sep,Wed,Classification - Overfitting,,,"Additional Material: <br>
 1.<a href=""https://osu.instructure.com/courses/128739/modules/items/8636064"">Overfitting</a> <br>
-2.<a href=""https://osu.instructure.com/courses/128739/modules/items/8636067"">p-value hacking</a>",,
+2.<a href=""https://osu.instructure.com/courses/128739/modules/items/8636067"">p-value hacking</a>",,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/9038114"">Random Forest Slides</a> <br>
+2.<a href = ""/cse5243/course_materials/lecture_examples/RandomForests.ipynb"">Random Forest Noteook</a> "
 10,5,23-Sep,Fri,Classification - Imbalanced Classes,,,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636069"">Imbalanced Classes</a> "
 11,6,28-Sep,Wed,"Classification - KNN, Rules","A2
 1.<a href = ""/cse5243/course_materials/hw/2/CSE5243 Classification HW2 Au21 V3.ipynb"">A2 Notebook</a> <br>
