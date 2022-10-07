@@ -35,7 +35,11 @@
 14,7,7-Oct,Fri,"Classification - ANN, Ensemble",,,"Additional Material: <br>
 1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636074"">Aritificial Neural Nets</a> <br>
 2.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636078"">Ensemble Methods</a>  
-",,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636085"">Greg's NN & CNN </a>"
+",,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636085"">Greg's NN & CNN </a> <br>
+2.<a href = ""https://gryslik.github.io/osu_cse3521_spring2022/course_materials/lecture_examples/Neural%20Nets-Part1.ipynb"">Neural Nets Part 1 </a> <br>
+3.<a href = ""https://gryslik.github.io/osu_cse3521_spring2022/course_materials/lecture_examples/HotDogNotHotDog.ipynb"">Hot Dog/ Not Hot Dog</a> <br>
+4.<a href = ""https://gryslik.github.io/osu_cse3521_spring2022/course_materials/lecture_examples/HotDogImageHelper.ipynb"">Hot Dog Image Helper File</a> <br>
+5.<a href = ""https://osu.instructure.com/files/47007752/download?download_frd=1"">Hot Dog Training Data & Model File (Large zip)</a> <br>"
 15,8,12-Oct,Wed,Midterm Review,,A2,,,
 -,8,14-Oct,Fri,NO CLASS,,,,,
 16,9,19-Oct,Wed,Midterm Exam,,,,,
