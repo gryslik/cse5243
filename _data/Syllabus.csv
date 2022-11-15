@@ -52,16 +52,16 @@
 1.<a href = ""/cse5243/course_materials/hw/4/CSE5243_Clustering_HW_Template_V4.ipynb"">A4 Notebook</a> <br>
 2.<a href =""/cse5243/course_materials/hw/4/large1_Xydf.csv"">Large1 Data</a><br>
 3.<a href =""/cse5243/course_materials/hw/4/large2_Xydf.csv"">Large2 Data</a><br>
-4.<a href =""/cse5243/course_materials/hw/4/small_Xydf.csv"">small_Xydf</a><br>",A3,"1.<a href = ""/cse5243/course_materials/lecture_examples/Association_Analysis.ipynb"">Association Analysis Clustering Notebook</a> ","1.<a href = ""https://mediasite.osu.edu/Mediasite/Play/76bc48582c134b05b26368e3f45ac7401d"">11-02-22</a> ","1.<a href = ""https://osu.instructure.com/courses/128739/files/44449909"">Association Analysis</a> "
-22,12,9-Nov,Wed,Frequent Patterns and Associations,,,,,
+4.<a href =""/cse5243/course_materials/hw/4/small_Xydf.csv"">small_Xydf</a><br>",A3,"1.<a href = ""/cse5243/course_materials/lecture_examples/Association_Analysis.ipynb"">Association Analysis Clustering Notebook</a> ","1.<a href = ""https://mediasite.osu.edu/Mediasite/Play/76bc48582c134b05b26368e3f45ac7401d"">11-04-22</a> ","1.<a href = ""https://osu.instructure.com/courses/128739/files/44449909"">Association Analysis</a> "
+22,12,9-Nov,Wed,Frequent Patterns and Associations,,,,"1.<a href = ""https://osu.zoom.us/rec/share/AQGT3dM-5qEhXSYf-wOeVKWa0OC-trGDLyAWkIcF4CnsX4buMRWstjARvRCkEasn.AraL5TZZYnSok1LE"">11-09-22</a> ",
 23,12,11-Nov,Fri,NO CLASS,,,,,
-24,13,16-Nov,Wed,Anomaly Detection & Frequent Associations,,A4,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636106"">Anomaly Detection</a> "
--,13,18-Nov,Fri,Anomaly Detection,"A5
+24,13,16-Nov,Wed,Anomaly Detection & Frequent Associations,"A5
 1.<a href =""/cse5243/course_materials/hw/5/Hw5_Au2021.ipynb"">A5 Notebook</a><br>
-2.<a href =""/cse5243/course_materials/hw/5/hw5_data.csv"">A5 Data</a><br>",,,,
+2.<a href =""/cse5243/course_materials/hw/5/hw5_data.csv"">A5 Data</a><br>",,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636106"">Anomaly Detection</a> "
+-,13,18-Nov,Fri, POSTPONED,,A4,,,
 25,14,23-Nov,Wed,NO CLASS,,,,,
 -,14,25-Nov,Fri,NO CLASS,,,,,
-26,15,30-Nov,Wed,Misc Topics (reinforcement learning)?,,A5,,,
+26,15,30-Nov,Wed,Misc Topics (reinforcement learning)?,Anomaly Detection Part 2,,,,
 27,15,2-Nov,Fri,Misc Topics,,,,,
-28,16,7-Dec,Wed,Final Review (Roughly around this date),,,,,
+28,16,7-Dec,Wed,Final Review (Roughly around this date),,,A5,,
 29,17,9-Dec,Fri,Final Exam (Roughly around this date),,,,,
