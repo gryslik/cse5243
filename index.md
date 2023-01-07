@@ -9,18 +9,19 @@ layout: default
 <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>  
 
 
-# FALL 2022
+# SPRING 2023
 
 ## Class Information
 
-Item                     | Section 020                  
+Item                     | Section 0040                 
 ------------------------ | -----------                  
-Schedule                 | Wed/Fri 12:45 PM - 2:05 PM   
- Location                | Zoom. Details Carmen for details.
- Professor               | Greg Ryslik / ryslik DOT 1 AT osu DOT edu
- Professor Office Hours  | Fridays (2:05 - 3:05 PM) - via zoom. Details on Carmen. Contact me if you plan to attend.
- TA                      | Spandana Kondubhotla / kondubhotla DOT 1 AT buckeyemail DOT osu DOT edu
- TA Office Hours         | TBD                         
+Schedule                 | Tue/Thursday 2:20 PM - 3:40 PM EST
+Location                 | Zoom. Details on Carmen. Some lectures will be in person and zoom.
+Professor                | Greg Ryslik / ryslik DOT 1 AT osu DOT edu
+Professor Office Hours   | Fridays (2:20 - 3:40 PM) - via zoom. Details on Carmen. Contact me ahead of time if you plan to attend.
+TA                       | TBD
+TA Office Hours          | TBD                         
+Discord Link             | https://discord.gg/vFSFu6GZ
 
 
 
