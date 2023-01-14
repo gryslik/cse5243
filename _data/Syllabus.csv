@@ -1,10 +1,10 @@
 ﻿Class,Wk,Date,Day,Topic,Assign Out,Assign Due,Notes,Video,Related Files
-1,1,10-Jan,Tu,Class Outline,,,,,"1.<a href = ""/cse5243/course_materials/prep/1_Python_Overview.ipynb"">Python Overview Notebook</a> <br>
+1,1,10-Jan,Tu,Class Outline,,,,"1.<a href = ""https://osu.zoom.us/rec/share/BJuUtcT6BLSsjkZPlggeaU9UxkSxjD4TxSiky2qlpk9amXJuHhdmoZW24gEhQ6Yi.Vrvk9a-520LT1no7"">Jan 10 Lecture</a> ","1.<a href = ""/cse5243/course_materials/prep/1_Python_Overview.ipynb"">Python Overview Notebook</a> <br>
 2.<a href = ""/cse5243/course_materials/prep/1_Python_Overview.html"">Python Overview  html</a> <br>
 3.<a href = ""/cse5243/course_materials/prep/1a_Exploratory_Data_analysis.ipynb"">Exploratory Data Analysis Overview Notebook </a> <br>
  4.<a href = ""/cse5243/course_materials/prep/1a_Exploratory_Data_analysis.html"">Exploratory Data Analysis Overview html</a>
 5.<a href = ""https://www-users.cse.umn.edu/~kumar001/dmbook/appendices_2ed.pdf"">Lin Alg/Stats Reference</a>"
-2,1,12-Jan,Th,Introduction to Data Mining,,,,,"1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768575"">Chapter 1 Intro</a> "
+2,1,12-Jan,Th,Introduction to Data Mining,,,,"1.<a href = ""https://osu.zoom.us/rec/share/2yoRvQls_Jk2GNHK_yjykLZF5MWu7vupWsZS33wwQSOOHdafSFsEFattNWYPGtF9.eSNbisTVZmRg0VTi"">Jan 10 Lecture</a> ","1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768575"">Chapter 1 Intro</a> "
 3,2,17-Jan,Tu,Review of Basic Probability and Statistical Concepts,,,"Additional Material: 1.<a href=""https://osu.instructure.com/courses/128739/files/44449870"">Bayes Theorem Alternate</a>",,"1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768576"">Stats Concepts Part 1</a> "
 4,2,19-Jan,Th,Review of Basic Probability and Statistical Concepts,,,,,"1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768577"">Stats Concepts Part 2</a> "
 5,3,24-Jan,Tu,Data & Data Preprocessing,"A1 Released
