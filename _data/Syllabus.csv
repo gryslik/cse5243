@@ -5,13 +5,13 @@
  4.<a href = ""/cse5243/course_materials/prep/1a_Exploratory_Data_analysis.html"">Exploratory Data Analysis Overview html</a>
 5.<a href = ""https://www-users.cse.umn.edu/~kumar001/dmbook/appendices_2ed.pdf"">Lin Alg/Stats Reference</a>"
 2,1,12-Jan,Th,Introduction to Data Mining,,,,"1.<a href = ""https://osu.zoom.us/rec/share/2yoRvQls_Jk2GNHK_yjykLZF5MWu7vupWsZS33wwQSOOHdafSFsEFattNWYPGtF9.eSNbisTVZmRg0VTi"">Jan 12 Lecture</a> ","1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768575"">Chapter 1 Intro</a> "
-3,2,17-Jan,Tu,Review of Basic Probability and Statistical Concepts,,,"Additional Material: 1.<a href=""https://osu.instructure.com/courses/128739/files/44449870"">Bayes Theorem Alternate</a>",,"1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768576"">Stats Concepts Part 1</a> "
-4,2,19-Jan,Th,Review of Basic Probability and Statistical Concepts,,,,,"1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768577"">Stats Concepts Part 2</a> "
-5,3,24-Jan,Tu,Data & Data Preprocessing,"A1 Released
+3,2,17-Jan,Tu,Review of Basic Probability and Statistical Concepts,,,"Additional Material: 1.<a href=""https://osu.instructure.com/courses/128739/files/44449870"">Bayes Theorem Alternate</a>","1.<a href = ""https://osu.zoom.us/rec/share/t6M54TuAaqSoFi0SjB3TRmc6wXu_gs9gDDMXkajLqGyKVaap3JjAfZ8nfBH2W5zb.k_h4c361AuBnk_i3"">Jan 17 Lecture</a> ","1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768576"">Stats Concepts Part 1</a> "
+4,2,19-Jan,Th,Review of Basic Probability and Statistical Concepts,,,,"1.<a href = ""https://osu.zoom.us/rec/share/8VR7uKLDBnTB_Xszu8NizVkOa3gyp-ZPoWQ-HIdI4u6U4Ik0icabNV5nlNkQbZkd.uVqkMPzUnU_P1_nd"">Jan 19 Lecture</a> ","1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768577"">Stats Concepts Part 2</a> "
+5,3,24-Jan,Tu,Data & Data Preprocessing,,,,,"1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768579"">Chapter 2 Data</a> "
+6,3,26-Jan,Th,Data & Data Preprocessing,"A1 Released
 1.<a href =  ""/cse5243/course_materials/hw/1/CSE5243_EDA_Logistic_HW_Template.ipynb"">A1 Notebook</a> <br>
  2.<a href =""/cse5243/course_materials/hw/1/diabetes_hw_data_3494.csv "">A1 Data </a>",,"1.<a href = ""/cse5243/course_materials/lecture_examples/CategoricalData&Inference.ipynb"">Logistic Regression IPython Notebook</a> <br>
 2.<a href = ""/cse5243/course_materials/lecture_examples/LogisticRegressionData.csv"">Logistic Regression Data</a>",,"1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768582"">Categorical Data & Inference</a> "
-6,3,26-Jan,Th,Data & Data Preprocessing,,,,,"1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768579"">Chapter 2 Data</a> "
 7,4,31-Jan,Tu,Data & Data Preprocessing,,,"Additional Material: <br>
  1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768583"">Pre-Processing</a> <br>
 2.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768581"">Chapter 2 Entropy</a><br>
