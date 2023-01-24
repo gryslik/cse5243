@@ -19,7 +19,7 @@ Schedule                 | Tue/Thursday 2:20 PM - 3:40 PM EST
 Location                 | Zoom. Details on Carmen. Some lectures will be in person and zoom.
 Professor                | Greg Ryslik / ryslik DOT 1 AT osu DOT edu
 Professor Office Hours   | Fridays (2:20 - 3:40 PM) - via zoom. Details on Carmen. Contact me ahead of time if you plan to attend.
-TA                       | TBD
+TA                       | Xiang Li (li.3880@osu.edu)
 TA Office Hours          | TBD                         
 Discord Link             | https://discord.gg/vFSFu6GZ
 
