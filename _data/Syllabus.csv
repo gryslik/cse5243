@@ -60,7 +60,9 @@
 2.<a href =""/cse5243/course_materials/hw/5/hw5_data.csv"">A5 Data</a><br>",,"1.<a href = ""/cse5243/course_materials/lecture_examples/Outlier_Detection.ipynb"">Outlier Detection </a> ","1.<a href = ""https://osu.zoom.us/rec/share/BxXYJp744cyI4hn2xvvjYS9hayiFmsGadkU1dQ3a2eHP_1ciD1IoUiCOb1sOurLs.briQPZYKqmQq0Kc-"">Apr 4</a> ","1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768602"">Anomaly Detection</a> "
 -,13,6-Apr,Th,Anomaly Detection & Frequent Associations,,,,,
 25,14,11-Apr,Tu,Misc Topics,,A4,,,"1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768603"">Reinforcement Learning</a> <br>
-2.<a href = ""https://github.com/gryslik/osu_cse3521_spring2022/tree/gh-pages/course_materials/lecture_examples/lunar_lander""> Lunar Lander Reinforcement Code </a>"
+2. <a href = ""https://gryslik.github.io/osu_cse3521_spring2022/course_materials/lecture_examples/Frozen_Lake_QTable.py""> Frozen Lake </a> <br>
+3.<a href = ""https://github.com/gryslik/osu_cse3521_spring2022/tree/gh-pages/course_materials/lecture_examples/lunar_lander""> Lunar Lander Reinforcement Code </a>
+4.<a href = ""https://github.com/gryslik/mario_rl/""> Mario Code </a>"
 -,14,14-Apr,Th,Misc topics,,,,,
 26,15,18-Apr,Tu,Mis Topics,,,,,
 27,15,20-Apr,Th,Final Review (Roughly around this date),,A5,,,
