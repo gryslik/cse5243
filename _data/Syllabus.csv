@@ -58,13 +58,12 @@
 24,13,4-Apr,Tu,Anomaly Detection & Frequent Associations,"A5
 1.<a href =""/cse5243/course_materials/hw/5/Hw5_Au2021.ipynb"">A5 Notebook</a><br>
 2.<a href =""/cse5243/course_materials/hw/5/hw5_data.csv"">A5 Data</a><br>",,"1.<a href = ""/cse5243/course_materials/lecture_examples/Outlier_Detection.ipynb"">Outlier Detection </a> ","1.<a href = ""https://osu.zoom.us/rec/share/BxXYJp744cyI4hn2xvvjYS9hayiFmsGadkU1dQ3a2eHP_1ciD1IoUiCOb1sOurLs.briQPZYKqmQq0Kc-"">Apr 4</a> ","1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768602"">Anomaly Detection</a> "
--,13,6-Apr,Th,Anomaly Detection & Frequent Associations,,,,,
-25,14,11-Apr,Tu,Misc Topics,,A4,,,"1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768603"">Reinforcement Learning</a> <br>
+-,13,6-Apr,Th,Anomaly Detection & Frequent Associations,,,,"1.<a href = ""https://osu.zoom.us/rec/share/wHkFgA8w2MA-Ka7PK4nFOPovzG3D8UgABI2KMJK6cVAZd5r-qIV4hvBm_8Mrx3Vk.33NtMj_s5FAwWuT1"">Apr 6</a> ",
+25,14,11-Apr,Tu,Misc Topics,,A4,,"1.<a href = ""https://osu.zoom.us/rec/share/KVLo4JRhDe4hslXY24KKOzIFc9LswkySt7FQU5BBKV5NAg7sZqUra9AnXiCOG3Mq.94d6n5ZH6Bxqkykl"">Apr 11</a> ","1.<a href = ""https://osu.instructure.com/courses/140089/modules/items/9768603"">Reinforcement Learning</a> <br>
 2. <a href = ""https://gryslik.github.io/osu_cse3521_spring2022/course_materials/lecture_examples/Frozen_Lake_QTable.py""> Frozen Lake </a> <br>
 3.<a href = ""https://github.com/gryslik/osu_cse3521_spring2022/tree/gh-pages/course_materials/lecture_examples/lunar_lander""> Lunar Lander Reinforcement Code </a>
 4.<a href = ""https://github.com/gryslik/mario_rl/""> Mario Code </a>"
--,14,14-Apr,Th,Misc topics,,,,,
-26,15,18-Apr,Tu,Mis Topics,,,,,
-27,15,20-Apr,Th,Final Review (Roughly around this date),,A5,,,
-28,16,25-Apr,Tu,Final Exam (Roughly around this date),,,,,
-29,17,27-Apr,Th,,,,,,
+-,14,13-Apr,Th,Misc topics,,,,"1.<a href = ""https://osu.zoom.us/rec/share/QPSBl6DDIcOBECSl23vdk_xErSrjT7V7El90v1Fw4Yy_rXXn5XSWoViGmrvSRJbm.g8-Y-byRG0muk_Bp"">Apr 13</a> ",
+26,15,18-Apr,Tu,Final Review,,,"1.<a href = ""/cse5243/course_materials/syllabus/CSE5243_Final_Review.ipynb"">Final Review Notebook</a> ",,
+27,15,21-Apr,Friday,Final Start,,A5,,,
+28,16,23-Apr,Sunday,Final End,,,,,
